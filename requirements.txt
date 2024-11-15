@@ -1,6 +1,3 @@
-numpy
-pandas
-sklearn
 tensorflow
 pickle
 streamlit
