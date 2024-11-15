@@ -39,3 +39,4 @@ if st.button("Analyze Sentiment"):
 # Footer
 st.markdown("---")
 st.write("Developed using Streamlit, TensorFlow, and Keras")
+st.write("By Rahul Joshi, Ananya Jain, & Diya Upadhyay")
