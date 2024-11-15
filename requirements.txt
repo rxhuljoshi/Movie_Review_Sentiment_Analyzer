@@ -1,5 +1,4 @@
 numpy
-zipfile
 pandas
 sklearn
 tensorflow
